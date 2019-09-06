@@ -1,35 +1,8 @@
-## 欢迎访问 William Hu 的个人简历
+## 欢迎访问 William Hu 的个人博客
 
-我的基本信息
+### Hello!
 
-### 呼浩
+### 你好，访问者：
 
-我是来自延安
+#####我是一个JAVA初学者，我有着对技术的探索与追求，我希望能和世界各地的技术者共同探索JAVA的奥秘和发现JAVA的美......
 
-```markdown
-Syntax highlighted code block
-
-# 内容1
-## 内容1
-### 内容1
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### 其他信息
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/William-HuVip/huhaoresume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### 我的历史
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
